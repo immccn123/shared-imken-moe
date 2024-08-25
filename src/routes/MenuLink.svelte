@@ -7,7 +7,7 @@
 </script>
 
 <li>
-    <a class:active={pathname === to} href={to}>
+    <a href={to} class:active={pathname === to} class="disabled">
         <slot></slot>
     </a>
 </li>
