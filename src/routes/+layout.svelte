@@ -49,6 +49,7 @@
                     <MdiClose />
                 </label>
                 <MenuLink to="/">欢迎</MenuLink>
+                <MenuLink to="/about">关于 Imken</MenuLink>
                 <span class="menu-title">友情链接</span>
                 <ul>
                     <MenuLink to="/links/list">链接列表</MenuLink>
